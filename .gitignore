@@ -1,6 +1,7 @@
 venv/
 test_results/
 test.py
+env.py
 
 *.pyc
 __pycache__/
